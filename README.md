@@ -20,7 +20,7 @@ Skills:  REACT / JS / HTML / CSS / PYTHON
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gomavijayan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomavijayan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomavijayan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomavijayan&show_icons=true)  
 
