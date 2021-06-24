@@ -26,11 +26,11 @@ Skills:  REACT / JS / HTML / CSS / PYTHON
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gomavijayan&show_icons=true&theme=radical)  
 
-![GitHub metrics](https://metrics.lecoq.io/Gomavijayan&show_icons=true&theme=radical)  
+![GitHub metrics](https://metrics.lecoq.io/Gomavijayan)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Gomavijayan&show_icons=true&theme=radical)  
 
-![Profile views](https://gpvc.arturio.dev/Gomavijayan&show_icons=true&theme=radical)  
+![Profile views](https://gpvc.arturio.dev/Gomavijayan)  
 
 
 
