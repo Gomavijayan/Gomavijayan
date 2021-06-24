@@ -23,7 +23,7 @@
 <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
 <img src = "https://img.shields.io/badge/-CSS-e34f26?logo=html5&logoColor=fff">
 <img src = "https://img.shields.io/badge/-REACTJS-e34f26?logo=html5&logoColor=fff">
-<img src = "https://img.shields.io/badge/-C-e34f26?logo=html5&logoColor=fff">
+<img src = "https://img.shields.io/badge/-C-#A8B9CC?logo=html5&logoColor=fff">
 <img src = "https://img.shields.io/badge/-PYTHON-e34f26?logo=html5&logoColor=fff">
 
 
