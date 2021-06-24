@@ -19,39 +19,23 @@ Medium:https://medium.com/@govarthiniv13
 - ⚡ Fun fact: I used get motivated from certain videos, plan accordingly, then move on as i do normally.LOL!
 
 Skills:  REACT / JS / HTML / CSS / PYTHON 
-# Badges
-
-<img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
-<img src = "https://img.shields.io/badge/-CSS-e34f26?logo=css3&logoColor=fff">
-
-# github stats
-
-<img src = "https://github-readme-stats.vercel.app/api?username=Gomavijayan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 
-# Most known Languages
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gomavijayan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/govarthini-v-93671517a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/goma.vijayan.5/)  
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomavijayan&show_icons=true&theme=radical">
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomavijayan)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomavijayan&show_icons=true)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Gomavijayan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/govarthini-v-93671517a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/goma.vijayan.5/)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gomavijayan)  
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+![GitHub metrics](https://metrics.lecoq.io/Gomavijayan)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Gomavijayan)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Gomavijayan)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Gomavijayan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Gomavijayan&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Gomavijayan)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Gomavijayan)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Gomavijayan)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Gomavijayan)  
+![Profile views](https://gpvc.arturio.dev/Gomavijayan)  
 
 
 
