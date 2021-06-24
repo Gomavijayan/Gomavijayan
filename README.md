@@ -7,7 +7,6 @@ I am a sports programmer, and I always write my code efficiently. Apart from my 
 - 🌱 I’m currently learning Cyber Security.
 - 🤔 I’m looking for help with Data Analysis,Documentation.
 - 💬 Ask me about Web development (Reactjs)
-- 📫 How to reach me:    on LinkedIn: https://www.linkedin.com/in/govarthini-v-93671517a/
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I used get motivated from certain videos, plan accordingly, then move on as i do normally.LOL!
 
