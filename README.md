@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I used get motivated from certain videos, plan accordingly, then move on as i do normally.LOL!
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Gomavijayan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api?username=Gomavijayan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
