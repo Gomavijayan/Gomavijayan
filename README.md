@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Cyber Security in Kloudlearn & Upliftprojects
 - 🌱 I’m currently learning Cyber Security.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Data Analysis,Documentation.
 - 💬 Ask me about Web development (Reactjs)
 - 📫 How to reach me:    on LinkedIn: https://www.linkedin.com/in/govarthini-v-93671517a/
