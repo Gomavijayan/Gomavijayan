@@ -9,6 +9,12 @@
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I used get motivated from certain videos, plan accordingly, then move on as i do normally.LOL!
 
+# github stats
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Gomavijayan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+
+# Most known Languages
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomavijayan&show_icons=true&theme=radical">
 
