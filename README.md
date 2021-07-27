@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Govarthini.V
-#### Web Development, Cyber Security & Data Science
+#### Web Development, web design & Cyber Security.
 I am Govarthini from India, an young tech undergraduate with having a keen interest to learn something new every day.
 I am a sports programmer, and I always write my code efficiently. Apart from my curriculum I am much more interested in Big data analysis and web development and I have done certain projects and internships.
 
