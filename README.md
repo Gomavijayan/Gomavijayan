@@ -1,11 +1,11 @@
 ### Hi there 👋, My name is Govarthini.V
-#### Web Development, web design & Cyber Security.
+#### Web Development, web design.
 I am Govarthini from India, an young tech undergraduate with having a keen interest to learn something new every day.
 I am a sports programmer, and I always write my code efficiently. Apart from my curriculum I am much more interested in Big data analysis and web development and I have done certain projects and internships.
 
-- 🔭 I’m currently working on Cyber Security in Kloudlearn & Upliftprojects
-- 🌱 I’m currently learning Cyber Security.
-- 🤔 I’m looking for help with Data Analysis,Documentation.
+- 🔭 I’m currently working as Campus Ambassador in NEO EDUCATIONAL FOUNDATION.
+- 🌱 I’m currently learning Java.
+- 🤔 I’m looking for help with Data Analysis.
 - 💬 Ask me about Web development (Reactjs)
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I used get motivated from certain videos, plan accordingly, then move on as i do normally.LOL!
@@ -13,7 +13,6 @@ I am a sports programmer, and I always write my code efficiently. Apart from my 
 Skills:  REACT / JS / HTML / CSS / PYTHON 
 
 Portfolio :  https://govarthiniv13.wixsite.com/portfolio
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gomavijayan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/govarthini-v-93671517a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/goma.vijayan.5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCo169ob4qGq0H69CoWrp5_Q)  
